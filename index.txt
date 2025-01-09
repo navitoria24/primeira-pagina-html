@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Primeira Págihttps://www.w3schools.com/na</title>
+</head>
+<body>
+    <h1>Bem-vindo à minha página HTML!</h1>
+    <p>Essa é minha primeira página criada e hospedada na web.</p>
+</body>
+</html>
+​
